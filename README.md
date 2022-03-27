@@ -55,6 +55,8 @@ I understand this is by no means unique, and any comments that are directed at
 this I would simply try to help you by politly pointing you to one of the other
 projects:
 
+* [SlickEdit](https://www.slickedit.com/) as mentioned earlier is my current
+favorite.
 * [Notepad++](https://notepad-plus-plus.org/) has been a favorite of mine and is
 tailored specifically for editing various source code files.
 * [NetBeans](https://netbeans.apache.org/) and 
@@ -63,3 +65,7 @@ tailored specifically for editing various source code files.
 open source IDE on the web. This is what you are looking for if you want all those
 advanced features. *As a side note: SlickEdit makes a premium Eclipse pugin worth
 checking out.*
+* [Microsoft](https://www.microsoft.com) is the ever present behemoth in the IDE
+market and if you got that serious coin, always a heavy contender.
+* Etc., etc., etc. as any of your favorite search engines will no doubt reveal,
+there are a myriad of editors that span every taste and flavor or asthetic.
