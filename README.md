@@ -55,9 +55,11 @@ I understand this is by no means unique, and any comments that are directed at
 this I would simply try to help you by politly pointing you to one of the other
 projects:
 
-* Notepad++ has been a favorite of mine and is tailored to source code editing
-specifically.
-* NetBeans and IntelliJ IDE are some great options for Java.
-* Elicpse is probably the most full featured free and open source IDE on the
-web. This is what you are looking for if you want all those advanced features.
-As a side note: SlickEdit makes a premium Eclipse pugin worth checking out.
+* [Notepad++](https://notepad-plus-plus.org/) has been a favorite of mine and is
+tailored specifically for editing various source code files.
+* [NetBeans](https://netbeans.apache.org/) and 
+[IntelliJ IDEA](https://www.jetbrains.com/idea/) are some great options for Java.
+* [Elicpse](https://www.eclipse.org/) is probably the single most full featured 
+open source IDE on the web. This is what you are looking for if you want all those
+advanced features. *As a side note: SlickEdit makes a premium Eclipse pugin worth
+checking out.*
