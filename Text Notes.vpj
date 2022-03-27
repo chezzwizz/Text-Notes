@@ -1,0 +1,81 @@
+<!DOCTYPE Project SYSTEM "http://www.slickedit.com/dtd/vse/10.0/vpj.dtd">
+<Project
+  Version="10.0"
+  VendorName="SlickEdit"
+  TemplateName="(Other)"
+  WorkingDir=".">
+  <Config
+    Name="Release"
+    OutputFile=""
+    CompilerConfigName="">
+    <Menu>
+      <Target
+        Name="Compile"
+        MenuCaption="&amp;Compile"
+        CaptureOutputWith="ProcessBuffer"
+        SaveOption="SaveCurrent"
+        RunFromDir="%rw">
+        <Exec/>
+      </Target>
+      <Target
+        Name="Build"
+        MenuCaption="&amp;Build"
+        CaptureOutputWith="ProcessBuffer"
+        SaveOption="SaveWorkspaceFiles"
+        RunFromDir="%rw">
+        <Exec/>
+      </Target>
+      <Target
+        Name="Rebuild"
+        MenuCaption="&amp;Rebuild"
+        CaptureOutputWith="ProcessBuffer"
+        SaveOption="SaveWorkspaceFiles"
+        RunFromDir="%rw">
+        <Exec/>
+      </Target>
+      <Target
+        Name="Debug"
+        MenuCaption="&amp;Debug"
+        SaveOption="SaveNone"
+        RunFromDir="%rw">
+        <Exec/>
+      </Target>
+      <Target
+        Name="Execute"
+        MenuCaption="E&amp;xecute"
+        SaveOption="SaveNone"
+        RunFromDir="%rw">
+        <Exec CmdLine='".exe"'/>
+      </Target>
+    </Menu>
+  </Config>
+  <Files>
+    <Folder
+      Name="Source Files"
+      Filters="*.c;*.C;*.cc;*.cpp;*.cp;*.cxx;*.c++;*.prg;*.pas;*.dpr;*.asm;*.s;*.bas;*.java;*.cs;*.sc;*.scala;*.e;*.cob;*.html;*.rc;*.tcl;*.py;*.pl;*.d;*.m;*.mm;*.go;*.groovy;*.gsh"
+      GUID="{A9996B65-4550-47C3-A7F3-F79F5B03335A}">
+      <F N="TextNotesMainForm.cs"/>
+      <F N="TextNotesProgram.cs"/>
+    </Folder>
+    <Folder
+      Name="Header Files"
+      Filters="*.h;*.H;*.hh;*.hpp;*.hxx;*.h++;*.inc;*.sh;*.cpy;*.if"
+      GUID="{5794237A-339E-4E88-8B5F-E8D1CBECE7C6}"/>
+    <Folder
+      Name="Resource Files"
+      Filters="*.ico;*.cur;*.dlg"
+      GUID="{099D8226-129B-4B65-AFC0-3AA834E89651}"/>
+    <Folder
+      Name="Bitmaps"
+      Filters="*.bmp"
+      GUID="{358C443B-F54D-4B37-9F99-5C6AD29948E9}"/>
+    <Folder
+      Name="Other Files"
+      Filters=""
+      GUID="{04C75987-E996-4157-8ABF-1D462E51F0CC}">
+      <F N=".gitignore"/>
+      <F N="README.md"/>
+      <F N="Requirements.txt"/>
+    </Folder>
+  </Files>
+</Project>
