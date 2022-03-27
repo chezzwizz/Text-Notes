@@ -35,7 +35,7 @@ As the project grows and draws interest, I would like to also like to use the
 'issues' platform for bug tracking and issues management.
 
 I hope you enjoy and find what is here useful. If you have any suggestions,
-please feel free to contact me and help me build A Christion Free and Open
+please feel free to contact me and help me build A Christian Free and Open
 Source Software project that can teach and provide useful functaionality for
 our communities.
 
